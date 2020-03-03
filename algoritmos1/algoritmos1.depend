@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1583260507 source:c:\users\gladys\desktop\algoritmos1\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	<stdlib.h>
+	<fstream>
+	"ingresar.h"
+	"ordenar.h"
+	"busqueda.h"
+	"archivo.h"
+
+1583260403 c:\users\gladys\desktop\algoritmos1\ingresar.h
+
+1583260403 c:\users\gladys\desktop\algoritmos1\ordenar.h
+
+1583260498 c:\users\gladys\desktop\algoritmos1\busqueda.h
+
+1583263745 c:\users\gladys\desktop\algoritmos1\archivo.h
+
